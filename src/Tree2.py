@@ -1,5 +1,9 @@
 #coding=utf-8
 
+'''
+二叉树的遍历
+'''
+
 from src.Constants import *
 
 # 节点类
